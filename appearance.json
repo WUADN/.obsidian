@@ -1,0 +1,14 @@
+{
+  "monospaceFontFamily": "Arial Black,Inter,Arial",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "cssTheme": "Dark Castle",
+  "interfaceFontFamily": "微软雅黑,Monaco,Inter,Arial Black,宋体",
+  "accentColor": "#000000",
+  "nativeMenus": false,
+  "textFontFamily": "Inter,微软雅黑",
+  "enabledCssSnippets": [
+    "font"
+  ],
+  "baseFontSize": 17
+}

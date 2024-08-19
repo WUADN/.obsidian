@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "c30d7798219da685",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6577bd40ffa2b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f39825a55cd0141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scheme_interpreter/question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cb0c913fb7b2c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7178660d0e843ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab03eda75e8a5f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11bc1c6fc7df4f93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cc5ce3c16c66af9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af90de57e4b51c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "d983b42ddbc61cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09df28b644a9ca7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scheme_interpreter/question.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "015cc9618e0ff701",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scheme_interpreter/question.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a09e3b2c9db25c25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a05c2c82b7054e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scheme_interpreter/question.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "vscode-editor:新建代码文件": false
+    }
+  },
+  "active": "2f39825a55cd0141",
+  "lastOpenFiles": [
+    "scheme_interpreter/solution.md",
+    "self_build/1.class build by function/使用函数实现对象类.md",
+    "欢迎.md",
+    "scheme_interpreter/未解决.md",
+    "scheme_interpreter/0.剩余部分.md",
+    "self_build/1.class build by function/__pycache__/function_implement_class.cpython-312.pyc",
+    "self_build/1.class build by function/__pycache__",
+    "self_build/1.class build by function/function_implement_class.py",
+    "self_build/1.class build by function/function_implement_class 1.py",
+    "self_build/1.class build by function",
+    "self_build",
+    "scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/worker-php.js",
+    "scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/worker-xquery.js",
+    "scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/worker-xml.js",
+    "scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/worker-lua.js",
+    "scheme_interpreter/scheme/images/tree.png",
+    "scheme_interpreter/scheme/images/thunk_detailed.gif",
+    "scheme_interpreter/scheme/images/thunked_calls.png",
+    "scheme_interpreter/scheme/images/tco.gif",
+    "scheme_interpreter/scheme/images/scheme_eval_recursion.png",
+    "scheme_interpreter/scheme/images/non_thunked_calls.png",
+    "scheme_interpreter/scheme/images/let.png",
+    "scheme_interpreter/scheme/images/money_tree.png",
+    "scheme_interpreter/scheme/images/lambda.png",
+    "scheme_interpreter/scheme/images/hax.png",
+    "scheme_interpreter/scheme/editor/scheme_documentation.md",
+    "scheme_interpreter/question.md",
+    "projects/scheme_interpreter/scheme/editor/scheme_documentation.md",
+    "projects/self_build/1.class build by function/使用函数实现对象类.md",
+    "projects/scheme_interpreter/solution.md",
+    "projects/scheme_interpreter/question.md",
+    "projects/0.剩余部分.md"
+  ]
+}

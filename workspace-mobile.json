@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "811d045b82bc4052",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c48290bce9a527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49f05132869c199",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "projects/scheme_interpreter/scheme/scheme_eval_apply.py"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b98cc08fda5cf580",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f986ef0af9702bb1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fab6470c53c55f57",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5a3d8c099cca0ad1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5e442b2920f981a6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "da5e65bd3954bdda",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3707166965afe0ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "826a23bd8a828dbd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "projects/scheme_interpreter/scheme/scheme_eval_apply.py",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "68cfada7f609c303",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "projects/scheme_interpreter/scheme/scheme_eval_apply.py",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7812aa97a28fe38c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "projects/scheme_interpreter/scheme/scheme_eval_apply.py"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "omnisearch:Omnisearch": false,
+      "vscode-editor:新建代码文件": false
+    }
+  },
+  "active": "b49f05132869c199",
+  "lastOpenFiles": [
+    "projects/scheme_interpreter/scheme/scheme.py",
+    "projects/scheme_interpreter/scheme/scheme_eval_apply.py",
+    "未命名.md",
+    "projects/scheme_interpreter/scheme/pair.py",
+    "projects/scheme_interpreter/scheme/scheme_reader.py",
+    "projects/scheme_interpreter/scheme/scheme_tokens.py",
+    "projects/scheme_interpreter/scheme/scheme_utils.py",
+    "To Dealing/To read/CS 61A Scheme Specification _ CS 61A Summer 2024 (2024_8_7 12_50_32).html",
+    "projects/scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/mode-applescript.js",
+    "projects/scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/mode-rdoc.js",
+    "projects/scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/mode-xquery.js",
+    "projects/scheme_interpreter/scheme/editor/static/ace/src-min-noconflict/theme-textmate.js",
+    "projects/scheme_interpreter/scheme/images/custom_test.png",
+    "projects/scheme_interpreter/scheme/images/thunked_calls.png",
+    "projects/scheme_interpreter/scheme/images/hax.png",
+    "projects/scheme_interpreter/scheme/images/lambda.png",
+    "projects/scheme_interpreter/scheme/images/tco.gif",
+    "projects/scheme_interpreter/scheme/images/tree.png",
+    "projects/scheme_interpreter/scheme/images/let.png",
+    "projects/scheme_interpreter/scheme/images/thunk_detailed.gif",
+    "projects/scheme_interpreter/scheme/images/money_tree.png",
+    "projects/scheme_interpreter/scheme/images/scheme_eval_recursion.png",
+    "projects/scheme_interpreter/scheme/editor/scheme_documentation.md",
+    "projects/scheme_interpreter/question.md",
+    "projects/scheme interpreter/scheme/editor/scheme_documentation.md",
+    "Great idea/Algorithm/Recursion/互递归.md",
+    "To Dealing/problem/computer.md",
+    "To Dealing/日历/学校杂物/1. 旷课&考试指南.md",
+    "To Dealing/日历/安排.md",
+    "问题&建议/errorr_record/电脑故障/1....md",
+    "问题&建议/errorr_record/special  syntax/python.md",
+    "问题&建议/errorr_record/1. pbug.1.md",
+    "问题&建议/泛化问题/未命名.md",
+    "projects/self_build/1.class build by function/使用函数实现对象类.md",
+    "计算机/CS61A/使用数据构造抽象/2.6 ...实现类和对象.md",
+    "计算机/CS61A/使用数据构造抽象/2.3 sequence.md",
+    "计算机/CS61A/使用数据构造抽象/2.2  Data Abstraction.md",
+    "计算机/CS61A/使用数据构造抽象/2.9递归对象.md",
+    "计算机/CS61A/使用数据构造抽象/2.8 效率.md",
+    "计算机/CS61A/使用数据构造抽象/2.4 可变数据.md",
+    "计算机/CS61A/使用数据构造抽象/summ.md",
+    "计算机/Data Structure/树.md",
+    "数学/6.050J/bits&code.md",
+    "计算机/未命名.md",
+    "计算机/CS61A/2.5 oop.md",
+    "数学/6.050J/构型.md"
+  ]
+}

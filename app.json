@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./_resources",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true
+}
